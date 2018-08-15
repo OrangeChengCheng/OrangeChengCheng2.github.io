@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+body{font-size:12px;}
+img{border:none;}
+/*默认会是实心圆点，设成none就是没有标记*/
+li{list-style:none;}
+/*用tab键切换的时候，文字链接、搜索框、按钮等的外面会有一个虚线框（或高亮框），此时当前的元素就获得了焦点*/
+input,select,textarea{outline:none;border:none;background:none;}
+/*resize为none的时候，textarea框不能通过鼠标缩放，定死大小了*/
+textarea{resize:none;}
+/*设置清除超链接的默认下划线*/
+a{text-decoration:none; color: #656565;}
+/*清除浮动*/
+.clearfix:after{content: "";display: block;clear: both;}
+.clearfix{zoom:1;}
+
+.fl{float:left;}
+.fr{float:right;}
+
+/* 首页样式 */
+
+/* 顶部标题样式 */
+.topview {
+    padding-top: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.projectlist {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
