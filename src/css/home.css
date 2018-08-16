@@ -11,8 +11,33 @@
 }
 
 .projectlist {
-    padding-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
+    margin-top: 50px;
+    width: 100%;
+    position: relative;
 }
+
+.ulview {
+    position: absolute;
+    width: 300px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    height: 50px;
+}
+
+.inputView {
+    height: 100%;
+    font-size: 20px;
+}
+
+.imgview {
+    height: 32px;
+    width: 32px;
+    margin-top: 6px;
+}
+
 

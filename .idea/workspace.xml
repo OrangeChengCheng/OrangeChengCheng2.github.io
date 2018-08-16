@@ -3,9 +3,35 @@
   <component name="ChangeListManager">
     <list default="true" id="28076657-54b1-4f47-bd08-c89d6d90b855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/project2/src/css/project2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project2/src/css/project2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/project2/src/js/project2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project2/src/js/project2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/project2/src/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project2/src/project2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/classify.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project1/src/classify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/bg/banner_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/bg/banner_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/bg/banner_bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/bg/banner_bg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/bg/shopList_left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/bg/shopList_left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/bg/shopList_left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/bg/shopList_left2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/aLink_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/aLink_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/bottle.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/bottle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/camear.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/camear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/foot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/foot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/footer_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/footer_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/htc_phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/htc_phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/iPad.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/iPad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/macbookpro.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/macbookpro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/more.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/more.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/row.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/row.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/sanxing.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/sanxing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/shop.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/shop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/sj.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/sj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/start.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/starts.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/starts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/tit.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/tit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/img/icon/voice_box.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/icon/voice_box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project1/src/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/project1/src/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/project1/src/style/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/project2/src/project2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="405">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -38,17 +55,8 @@
       <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -62,47 +70,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/project1/src/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/project1/src/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="265">
+              <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project2.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/project2/src/css/project2.css">
+      <file leaf-file-name="classify.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/project1/src/classify.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="88" column="16" lean-forward="true" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+            <state relative-caret-position="367">
+              <caret line="258" column="34" lean-forward="true" selection-start-line="258" selection-start-column="34" selection-end-line="258" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/project2/src/js/project2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+      <file leaf-file-name="arrows.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/icon/arrows.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <file leaf-file-name="aLink_bg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/icon/aLink_bg.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="banner_bg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/bg/banner_bg.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/project1/src/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="4058" column="4" selection-start-line="4058" selection-start-column="4" selection-end-line="4058" selection-end-column="4" />
+            <state relative-caret-position="210">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -112,16 +129,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>img/icon</find>
+      <find>../../../../source</find>
+      <find>/../../../source</find>
+      <find>../../source/ico</find>
+      <find>/../../source</find>
+      <find>banner_bg.png</find>
+      <find>img/bg/</find>
+      <find>img/bg</find>
       <find>js-tableView</find>
     </findStrings>
+    <replaceStrings>
+      <replace>../../../../source/icon</replace>
+      <replace />
+      <replace>../../../../source/bg</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/source</dir>
+      <dir>$PROJECT_DIR$/source/icon</dir>
+      <dir>$PROJECT_DIR$/src/pages</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,12 +167,16 @@
         <option value="$PROJECT_DIR$/pages/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/pages/project2/project2.html" />
-        <option value="$PROJECT_DIR$/src/css/home.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/js/home.js" />
         <option value="$PROJECT_DIR$/src/pages/project2/src/js/project2.js" />
         <option value="$PROJECT_DIR$/src/pages/project2/src/project2.html" />
+        <option value="$PROJECT_DIR$/src/pages/project3/src/project3.html" />
+        <option value="$PROJECT_DIR$/src/js/home.js" />
         <option value="$PROJECT_DIR$/src/pages/project2/src/css/project2.css" />
+        <option value="$PROJECT_DIR$/src/pages/project1/src/main.html" />
+        <option value="$PROJECT_DIR$/src/pages/project1/src/style/main.css" />
+        <option value="$PROJECT_DIR$/src/pages/project1/src/classify.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/css/home.css" />
       </list>
     </option>
   </component>
@@ -151,9 +190,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="607" />
-    <option name="y" value="161" />
-    <option name="width" value="1207" />
+    <option name="x" value="557" />
+    <option name="y" value="136" />
+    <option name="width" value="1241" />
     <option name="height" value="809" />
   </component>
   <component name="ProjectView">
@@ -172,6 +211,11 @@
             <path>
               <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,66 +223,6 @@
               <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrangeChengCheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrangeChengCheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,6 +242,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/icon" />
+      <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/src/css" />
     </key>
   </component>
@@ -327,15 +313,15 @@
       <option name="presentableId" value="Default" />
       <updated>1534298938880</updated>
       <workItem from="1534298940779" duration="4991000" />
-      <workItem from="1534384868802" duration="11339000" />
+      <workItem from="1534384868802" duration="14907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16330000" />
+    <option name="totallyTimeSpent" value="19898000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="607" y="161" width="1207" height="809" extended-state="0" />
+    <frame x="557" y="136" width="1241" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -351,8 +337,9 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25407726" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2468724" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -364,7 +351,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,10 +428,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/style/productsClassify.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="4058" column="4" selection-start-line="4058" selection-start-column="4" selection-end-line="4058" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/js/project2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/project2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project3/src/project3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/css/project2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/bg/banner_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/icon/aLink_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/icon/arrows.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/project1/src/classify.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="367">
+          <caret line="258" column="34" lean-forward="true" selection-start-line="258" selection-start-column="34" selection-end-line="258" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -459,76 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/style/productsClassify.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/style/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project1/src/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="4058" column="4" selection-start-line="4058" selection-start-column="4" selection-end-line="4058" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/js/project2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/project2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/project2/src/css/project2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="88" column="16" lean-forward="true" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        <state relative-caret-position="405">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
