@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+.container {
+    background: #FF7300;
+    height: 400px;
+}
+
+
+/*纯html布局*/
+.chessView-html {
+    background: #d4105a;
+    height: 100%;
+    width: 50%;
+    position: relative;
+}
+
+.tabelview {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    left:0;
+    top:0;
+    bottom:0;
+    margin: auto;
+}
+
+.td-white {
+    background: #FFFFFF;
+}
+
+.td-black {
+    background: #000000;
+}
+
+
+/*纯js布局*/
+.chessView-js {
+    background: #c3d41d;
+    height: 100%;
+    width: 50%;
+    position: relative;
+}
+
+.js-tableView {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    left:0;
+    top:0;
+    bottom:0;
+    margin: auto;
+}
