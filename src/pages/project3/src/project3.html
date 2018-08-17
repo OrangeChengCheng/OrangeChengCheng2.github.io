@@ -3,8 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>纯原生JS贪吃蛇</title>
+    <link rel="stylesheet" href="css/project3.css">
+    <link rel="stylesheet" href="../../../css/reset.css">
+    <script type="text/javascript" src="js/project3.js"></script>
 </head>
 <body>
+
+    <div class="container">
+        <h1 class="titleview">贪吃蛇游戏</h1>
+        <!--开始-->
+        <input id="Start" type="button" value="开始"></input>
+        <!--暂停-->
+        <input id="Pause" type="button" value="暂停"></input>
+        <!--重新开始-->
+        <input id="Refresh" type="button" value="重新开始"></input>
+        <!--修改速度-->
+        <input id="Speed" type="button" value="速度"></input>
+        <!--分数-->
+        <div class="scoreView"><p>分数：<span id="score">0</span></p></div>
+        <!--速度-->
+        <div class="speedNumView"><p>速度：<span id="speedNum">0</span></p></div>
+        <!--行走路径-->
+        <div id="snake_map">
+
+        </div>
+    </div>
+
+    <script>
+        creatSnakeMap(25, 20);
+    </script>
 
 </body>
 </html>

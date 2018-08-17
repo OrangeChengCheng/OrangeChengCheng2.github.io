@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.titleview {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#Start {
+    width: 60px;
+    height: 30px;
+    border: 1px solid #87ceeb;
+    border-radius: 5px;
+    color: #fff;
+    background: #87ceeb;
+    margin-left: 30%;
+    float: left;
+}
+
+#Pause,#Refresh,#Speed {
+    width: 60px;
+    height: 30px;
+    border: 1px solid #87ceeb;
+    border-radius: 5px;
+    color: #fff;
+    background: #87ceeb;
+    margin-left: 30px;
+    float: left;
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.scoreView {
+    width: 100px;
+    height: 30px;
+    margin-left: 50px;
+    float: left;
+}
+
+.speedNumView {
+    width: 100px;
+    height: 30px;
+    margin-left: 0px;
+    float: left;
+}
+
+#snake_map {
+    border: 1px solid #87ceeb;
+    margin: 55px auto;
+}
+
+
+/*效果样式*/
+/*行*/
+.row {
+    height: 20px;
+}
+
+/*列*/
+.col {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    background: #FAFAFA;
+    float: left;
+}
+
+/*蛇样式*/
+.activeSnake {
+    background: #000000;
+}
+
+/*果实样式*/
+.fruit {
+    background: #ff0000;
+}
