@@ -1,8 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
-body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+/*body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}*/
+*{margin:0;padding:0;}
 body{font-size:12px;}
+
 img{border:none;}
     /*默认会是实心圆点，设成none就是没有标记*/
 li{list-style:none;}

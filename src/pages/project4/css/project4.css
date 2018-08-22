@@ -1,0 +1,15 @@
+
+
+#box {
+    position: absolute;
+}
+
+#box div {
+    width:100px;
+    height:100px;
+    position: absolute;
+    text-align:center;
+    line-height:100px;
+    font-size:50px;
+    border-radius:10px;
+}

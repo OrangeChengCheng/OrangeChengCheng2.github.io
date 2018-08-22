@@ -24,6 +24,16 @@ function projectListAction(index) {
             window.location.href = "./src/pages/project3/src/project3.html";
         }
             break;
+        case 5 :
+        {
+            window.location.href = "./src/pages/project4/project4.html";
+        }
+            break;
+        case 6 :
+        {
+            window.location.href = "./src/pages/project5/project5.html";
+        }
+            break;
         default:
             break;
     }
